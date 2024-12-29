@@ -10,8 +10,8 @@ Book records with search functionality by title and author.
 Borrowing and return tracking for students.
 Detailed reports for library administrators, including overdue books.
 User-friendly interface for CRUD operations using APEX Application Builder.
-Technologies Used:
 
+Technologies Used:
 SQL Oracle 
 Entity Relationship Diagram (ERD)
 APEX Application Builder
